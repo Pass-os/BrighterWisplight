@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2.2
+
+Documentation only — no code changes.
+
+- Source moved to its own public repository,
+  [Pass-os/BrighterWisplight](https://github.com/Pass-os/BrighterWisplight).
+  The before/after screenshots and the website link work again.
+
 ## 1.2.1
 
 Documentation only — no code changes.

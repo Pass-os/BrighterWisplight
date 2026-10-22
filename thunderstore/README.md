@@ -20,7 +20,7 @@ Same spot, same night, same Wisplight. Only the light changed.
 
 | Vanilla | With Brighter Wisplight |
 | :---: | :---: |
-| ![Wisplight in vanilla Valheim: the Mistlands floor is almost black](https://raw.githubusercontent.com/Pass-os/my-game-mods/main/valheim/src/BrighterWisplight/thunderstore/images/vanilla.png) | ![Wisplight with the mod: the same ground, plants and rocks are now readable](https://raw.githubusercontent.com/Pass-os/my-game-mods/main/valheim/src/BrighterWisplight/thunderstore/images/modded.png) |
+| ![Wisplight in vanilla Valheim: the Mistlands floor is almost black](https://raw.githubusercontent.com/Pass-os/BrighterWisplight/main/thunderstore/images/vanilla.png) | ![Wisplight with the mod: the same ground, plants and rocks are now readable](https://raw.githubusercontent.com/Pass-os/BrighterWisplight/main/thunderstore/images/modded.png) |
 
 Note that the **fog is untouched**. The mist-clearing bubble around you is exactly
 the vanilla size — the mod never modifies it. What changes is how far you can see
